@@ -1,0 +1,20 @@
+name = "SymmetricFunctions"
+uuid = "2fe956d9-8622-4813-baff-ac4df3a59104"
+version = "1.0.0-DEV"
+authors = ["ha-derksen <ha.derksen@northeastern.edu> and contributors"]
+
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[compat]
+Documenter = "1.17.0"
+julia = "1.10.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[workspace]
+projects = ["docs"]
