@@ -9,4 +9,8 @@
 
 ## Symmetric Functions
 
-Symmetric functions can be expressed as linear combinations in the power sum basis, or the Schur basis. The core of the module consists of fast algorithms that use the Murnaghan-Nakayama rule, recursion and possible multi-threading to go from the power sum basis to the Schur basis and back. 
+Symmetric functions can be expressed as linear combinations in the power sum basis, or the Schur basis. The core of the module consists of fast algorithms that use the Murnaghan-Nakayama rule, recursion and (if there is more than one core) multi-threading to go from the power sum basis to the Schur basis and back. 
+
+## Jupyter notebook
+
+Basic functions are explained on the `Jupyter` notebook `src/SFnotbook.`.
