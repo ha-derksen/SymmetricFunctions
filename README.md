@@ -7,3 +7,6 @@
 3. tensor product decompositions of representations of the general linear group
 4. plethysms of Schur functors
 
+## Symmetric Functions
+
+Symmetric functions can be expressed as linear combinations in the power sum basis, or the Schur basis. The core of the module consists of fast algorithms that use the Murnaghan-Nakayama rule, recursion and possible multi-threading to go from the power sum basis to the Schur basis and back. 
