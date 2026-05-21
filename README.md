@@ -13,4 +13,4 @@ Symmetric functions can be expressed as linear combinations in the power sum bas
 
 ## Jupyter notebook
 
-Basic functions are explained on the `Jupyter` notebook `src/SFnotbook.`.
+Basic functions are explained on the `Jupyter` notebook `jupyter/SFnotbook.ipynb`.
