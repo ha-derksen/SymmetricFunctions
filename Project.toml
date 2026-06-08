@@ -1,6 +1,6 @@
 name = "SymmetricFunctions"
 uuid = "2fe956d9-8622-4813-baff-ac4df3a59104"
-version = "1.0.0-DEV"
+version = "1.0.0"
 authors = ["ha-derksen <ha.derksen@northeastern.edu> and contributors"]
 
 [deps]
